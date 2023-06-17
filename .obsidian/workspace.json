@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f27df7a660ef22ed",
+        "id": "31d6fd9f15df2ee2",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe40dae95e0a104",
+            "id": "88e30eeb561f4170",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/通识知识/Obsidian阅读指南/返回.png"
+                "file": "相关信息/关于本知识库.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/通识知识/Obsidian阅读指南/返回.png",
+                "file": "相关信息/关于本知识库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/通识知识/Obsidian阅读指南/返回.png",
+                "file": "相关信息/关于本知识库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/通识知识/Obsidian阅读指南/返回.png"
+                "file": "相关信息/关于本知识库.md"
               }
             }
           }
@@ -145,27 +147,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4f5be6631f674214",
+  "active": "88e30eeb561f4170",
   "lastOpenFiles": [
-    "Home.md",
+    "相关信息/知识库编写规范.md",
     "通识知识/Obsidian/Obsidian阅读指南.md",
+    "通识知识/Obsidian/Obsidian编写指南.md",
+    "计算机知识/Markdown/Markdown教程.md",
+    "images/通识知识/Obsidian阅读指南/关系图谱.png",
+    "Home.md",
+    "images/home/homepage_icon.png",
+    "相关信息/关于本知识库.md",
     "images/通识知识/Obsidian阅读指南/返回.png",
     "images/通识知识/Obsidian阅读指南",
     "images/通识知识",
     "计算机知识/LaTeX/LaTeX教程.md",
     "计算机知识/Git",
     "计算机知识/Git/Git教程.md",
-    "通识知识/Obsidian/Obsidian编写指南.md",
-    "计算机知识/Markdown/Markdown教程.md",
     "相关信息",
-    "相关信息/关于本知识库.md",
     "readme.md",
     "通识知识/Obsidian",
     "计算机知识/LaTeX",
     "计算机知识/Markdown",
     "生化医学",
     "数学知识",
-    "计算机知识",
-    "images/home/homepage_icon.png"
+    "计算机知识"
   ]
 }
