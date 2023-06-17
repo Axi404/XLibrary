@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e3a469c20d015d",
+        "id": "1219f2a1fb06b363",
         "type": "tabs",
         "children": [
           {
-            "id": "327396df01b36fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3514d83a973b65ed",
+            "id": "a1af39626f6129b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,9 +147,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3514d83a973b65ed",
+  "active": "a1af39626f6129b8",
   "lastOpenFiles": [
+    "Home.md",
+    "相关信息",
+    "相关信息/关于本知识库.md",
     "readme.md",
-    "Home.md"
+    "通识知识/Obsidian",
+    "计算机知识/LaTeX",
+    "计算机知识/Markdown",
+    "生化医学",
+    "数学知识",
+    "计算机知识",
+    "通识知识",
+    "images/home/homepage_icon.png",
+    "images/home",
+    "images"
   ]
 }
