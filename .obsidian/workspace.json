@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1219f2a1fb06b363",
+        "id": "f27df7a660ef22ed",
         "type": "tabs",
         "children": [
           {
-            "id": "a1af39626f6129b8",
+            "id": "bbe40dae95e0a104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "file": "images/通识知识/Obsidian阅读指南/返回.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "images/通识知识/Obsidian阅读指南/返回.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "images/通识知识/Obsidian阅读指南/返回.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "images/通识知识/Obsidian阅读指南/返回.png"
               }
             }
           }
@@ -147,9 +145,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a1af39626f6129b8",
+  "active": "4f5be6631f674214",
   "lastOpenFiles": [
     "Home.md",
+    "通识知识/Obsidian/Obsidian阅读指南.md",
+    "images/通识知识/Obsidian阅读指南/返回.png",
+    "images/通识知识/Obsidian阅读指南",
+    "images/通识知识",
+    "计算机知识/LaTeX/LaTeX教程.md",
+    "计算机知识/Git",
+    "计算机知识/Git/Git教程.md",
+    "通识知识/Obsidian/Obsidian编写指南.md",
+    "计算机知识/Markdown/Markdown教程.md",
     "相关信息",
     "相关信息/关于本知识库.md",
     "readme.md",
@@ -159,9 +166,6 @@
     "生化医学",
     "数学知识",
     "计算机知识",
-    "通识知识",
-    "images/home/homepage_icon.png",
-    "images/home",
-    "images"
+    "images/home/homepage_icon.png"
   ]
 }
