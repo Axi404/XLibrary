@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49968dd504e18db9",
+        "id": "8a4db7b74ac4cc2b",
         "type": "tabs",
         "children": [
           {
-            "id": "133cf56c7ef658c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60637d84c927c343",
+            "id": "600fe06048456e58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md"
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md"
               }
             }
           }
@@ -161,8 +149,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "133cf56c7ef658c3",
+  "active": "600fe06048456e58",
   "lastOpenFiles": [
+    "Home.md",
     "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
     "upload.bat",
     "新建 文本文档.txt",
@@ -177,7 +166,6 @@
     "计算机知识/Linux教程/Linux教程知识目录.md",
     "生化医学/生化医学知识知识目录.md",
     "计算机知识/Markdown/Markdown教程.md",
-    "Home.md",
     "通识知识/Obsidian/Obsidian阅读指南.md",
     "计算机知识/LaTeX/LaTeX教程.md",
     "相关信息/知识库编写规范.md",
