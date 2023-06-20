@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0e363fe76a0251dc",
+        "id": "49968dd504e18db9",
         "type": "tabs",
         "children": [
           {
-            "id": "68a956a9b1ecf3d6",
+            "id": "133cf56c7ef658c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60637d84c927c343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md"
               }
             }
           }
@@ -134,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,32 +161,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68a956a9b1ecf3d6",
+  "active": "133cf56c7ef658c3",
   "lastOpenFiles": [
-    "通识知识/中国近现代史纲要/中国近现代史纲要复习大纲.md",
-    "Home.md",
-    "通识知识/通识知识知识目录.md",
-    "相关信息/关于本知识库.md",
-    "通识知识/Obsidian/Obsidian阅读指南.md",
-    "通识知识/中国近现代史纲要/中国近现代史纲要思考题.md",
-    "相关信息/知识库编写规范.md",
+    "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
+    "upload.bat",
+    "新建 文本文档.txt",
+    "update.bat",
+    "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
+    "计算机知识/计算机常识/计算机/未命名 1.md",
+    "计算机知识/计算机常识/计算机常识目录.md",
+    "计算机知识/计算机常识/计算机操作系统常识",
+    "计算机知识/计算机知识知识目录.md",
+    "计算机知识/计算机常识",
+    "计算机知识/Linux教程/Linux安装教程/Linux安装与美化教程.md",
+    "计算机知识/Linux教程/Linux教程知识目录.md",
+    "生化医学/生化医学知识知识目录.md",
     "计算机知识/Markdown/Markdown教程.md",
+    "Home.md",
+    "通识知识/Obsidian/Obsidian阅读指南.md",
     "计算机知识/LaTeX/LaTeX教程.md",
-    "通识知识/中国近现代史纲要",
-    "通识知识/Obsidian/Obsidian编写指南.md",
-    "images/通识知识/Obsidian阅读指南/关系图谱.png",
-    "images/home/homepage_icon.png",
-    "images/通识知识/Obsidian阅读指南/返回.png",
-    "images/通识知识/Obsidian阅读指南",
-    "images/通识知识",
-    "计算机知识/Git",
-    "计算机知识/Git/Git教程.md",
-    "相关信息",
+    "相关信息/知识库编写规范.md",
+    "通识知识/通识知识知识目录.md",
+    "images/计算机知识/Linux教程/Linux安装教程/Ventoy2Disk启动界面.png",
+    "images/计算机知识/Linux教程/Linux安装教程/压缩卷.png",
+    "images/计算机知识/Linux教程/Linux安装教程/选择Ubuntu安装.jpg",
+    "images/计算机知识/Linux教程/Linux安装教程/拓展和主题.png",
+    "images/计算机知识/Linux教程/Linux安装教程/输入压缩量.png",
+    "images/计算机知识/Linux教程/Linux安装教程/软件与更新.png",
+    "images/计算机知识/Linux教程/Linux安装教程/任务栏位置设置.png",
+    "images/计算机知识/Linux教程/Linux安装教程/其他位置.png",
+    "images/计算机知识/Linux教程/Linux安装教程/检查磁盘内容.jpg",
+    "images/计算机知识/Linux教程/Linux安装教程/打开U盘.jpg",
+    "images/计算机知识/Linux教程/Linux安装教程",
+    "images/计算机知识/Linux教程/新建文件夹",
+    "images/计算机知识/Linux教程",
+    "images/计算机知识/新建文件夹",
+    "images/计算机知识",
     "readme.md",
-    "通识知识/Obsidian",
-    "计算机知识/LaTeX",
-    "计算机知识/Markdown",
-    "生化医学",
-    "数学知识"
+    "通识知识/中国近现代史纲要/中国近现代史纲要思考题.md",
+    "通识知识/中国近现代史纲要/中国近现代史纲要复习大纲.md",
+    "相关信息/关于本知识库.md",
+    "通识知识/Obsidian/Obsidian编写指南.md",
+    "计算机知识/Git/Git教程.md"
   ]
 }
