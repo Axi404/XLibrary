@@ -2,5 +2,11 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "livePreview": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
