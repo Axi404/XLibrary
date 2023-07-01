@@ -36,3 +36,7 @@ Obsidian 的优点之一在于开袋即食，全部的插件都不和软件本�
 # 友情链接
 
 西交人机所自救指南：[西交人机所自救指南 - HelpME (gitbook.io)](https://help-me-xjtu-aiar.gitbook.io/help-me-all-you-need-about-aiar-xjtu/)，通过 gitbook 搭建，属于西交人机所的学习与生活指南。~~(正在搭建中)~~
+
+# 杂谈
+
+你以为这天是又一个很平常的日子，多年之后才发现这其实是你人生里最棒的一天，这样的一天永远不会再有了。
