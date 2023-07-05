@@ -1,6 +1,6 @@
-本文旨在教学 $\LaTeX$ 的数学公式。在 Markdown 语言中，$\LaTeX$ 数学公式被插入在 `$\func$` 中，而在 $\LaTeX$ 其自身的语法中，也亦是如此。
+本文旨在教学 $\mathrm{\LaTeX}$ 的数学公式。在 Markdown 语言中，$\mathrm{\LaTeX}$ 数学公式被插入在 `$\func$` 中，而在 $\mathrm{\LaTeX}$ 其自身的语法中，也亦是如此。
 
-下文会给出 LaTeX 数学公式的效果以及对应源码。
+下文会给出 $\mathrm{\LaTeX}$ 数学公式的效果以及对应源码。
 
 # 声调 / 变音符号
 
@@ -54,7 +54,7 @@ $\sh a \ch b \th c$
 
 $$\operatorname{sh} a \quad \operatorname{ch} b \quad \operatorname{th} c$$
 
-> 在 [[Obsidian阅读指南#什么是 Obsidian|Obsidian]] 中并未提供 `$\sh a \ch b \th c$` 的 $\LaTeX$ 环境。
+> 在 [[Obsidian阅读指南#什么是 Obsidian|Obsidian]] 中并未提供 `$\sh a \ch b \th c$` 的 $\mathrm{\LaTeX}$ 环境。
 
 ```markdown
 $\operatorname{argsh} a \operatorname{argch} b \operatorname{argth} c$
@@ -631,10 +631,10 @@ $\trianglelefteq \ntrianglelefteq \trianglerighteq \ntrianglerighteq$
 $$\trianglelefteq \quad \ntrianglelefteq \quad \trianglerighteq \quad \ntrianglerighteq$$
 
 ```markdown
-$\LaTeX$
+$\mathrm{\LaTeX}$
 ```
 
-$$\LaTeX$$ 
+$$\mathrm{\LaTeX}$$ 
 
 # 上标、下标及积分等
 
@@ -657,10 +657,10 @@ $$a_2$$
 ## 组合
 
 ```markdown
-$a^{2+2} a_{i,j}$
+$a^{2+2} a_{i, j}$
 ```
 
-$$a^{2+2} \quad a_{i,j}$$
+$$a^{2+2} \quad a_{i, j}$$
 
 ## 结合上下标
 
@@ -673,10 +673,10 @@ $$a^2_2$$
 ## 前置上下标
 
 ```markdown
-${}^2_1\!X^3_4$
+${}^2_1\! X^3_4$
 ```
 
-$${}^2_1\!X^3_4$$
+$${}^2_1\! X^3_4$$
 
 ## 导数
 
@@ -786,34 +786,34 @@ $$\lim_{n\to\infty}x_n \quad \lim\limits_{n\to\infty}x_n$$
 ## 积分
 
 ```markdown
-$\int_{-N}^{N}e^x\,dx$
+$\int_{-N}^{N}e^x\, dx$
 ```
 
-$$\int_{-N}^{N}e^x\,dx$$
+$$\int_{-N}^{N}e^x\, dx$$
 
 ## 双重积分
 
 ```markdown
-$\iint_M^Ndx\,dy$
+$\iint_M^Ndx\, dy$
 ```
 
-$$\iint_M^Ndx\,dy$$
+$$\iint_M^Ndx\, dy$$
 
 ## 三重积分
 
 ```markdown
-$\iiint_M^Ndx\,dy\,dz$
+$\iiint_M^Ndx\, dy\, dz$
 ```
 
-$$\iiint_M^Ndx\,dy\,dz$$
+$$\iiint_M^Ndx\, dy\, dz$$
 
 ## 闭合的曲线、曲面积分
 
 ```markdown
-$\oint_Cx^3\,dx+4y^2\,dy$
+$\oint_Cx^3\, dx+4 y^2\, dy$
 ```
 
-$$\oint_Cx^3\,dx+4y^2\,dy$$
+$$\oint_Cx^3\, dx+4 y^2\, dy$$
 
 ## 交集
 
@@ -932,30 +932,30 @@ $$\begin{vmatrix} \begin{Bmatrix}A & \\ c & d \end{Bmatrix} & x\\ \dfrac{1}{2} &
 #### 条件定义 (如分段函数)
 
 ```markdown
-$f(x)=\begin{cases}x-1&x\leqslant3\\x^2+3x-1&x>3\end{cases}$
+$f (x)=\begin{cases}x-1&x\leqslant 3\\x^2+3 x-1&x>3\end{cases}$
 ```
 
-$$f(x)=\begin{cases}x-1&x\leqslant3\\x^2+3x-1&x>3\end{cases}$$
+$$f (x)=\begin{cases}x-1&x\leqslant 3\\x^2+3 x-1&x>3\end{cases}$$
 
 #### 方程组
 
 ```markdown
-$\begin{cases}2x+9y-5z=10\\4x+20y+z=24\\x-\dfrac{1}{2}y+3z=8\end{cases}$
+$\begin{cases}2 x+9 y-5 z=10\\4 x+20 y+z=24\\x-\dfrac{1}{2}y+3 z=8\end{cases}$
 ```
 
-$$\begin{cases}2x+9y-5z=10\\4x+20y+z=24\\x-\dfrac{1}{2}y+3z=8\end{cases}$$
+$$\begin{cases}2 x+9 y-5 z=10\\4 x+20 y+z=24\\x-\dfrac{1}{2}y+3 z=8\end{cases}$$
 
 #### 多行等式
 
 ```markdown
-$\begin{aligned}f(x) & = (x + 1)^2 \\ & = x^2 + 2x + 1\end{aligned}$
+$\begin{aligned}f (x) & = (x + 1)^2 \\ & = x^2 + 2 x + 1\end{aligned}$
 
 $\begin{aligned}a_1 & = 1 \\ a_2 & = 2 \\ & \dots \\ a_n & = n\end{aligned}$
 ```
 
 > 原语法为 align，现在是 aligned。
 
-$$\begin{aligned}f(x) & = (x + 1)^2 \\ & = x^2 + 2x + 1\end{aligned}$$
+$$\begin{aligned}f (x) & = (x + 1)^2 \\ & = x^2 + 2 x + 1\end{aligned}$$
 
 $$\begin{aligned}a_1 & = 1 \\ a_2 & = 2 \\ & \dots \\ a_n & = n\end{aligned}$$
 
@@ -1387,7 +1387,7 @@ $$\Bigg (\bigg[\Big\{\big<x\big>\Big\}\bigg]\Bigg)$$
 
 # 空格
 
-一般 $\LaTeX$ 能自动处理大多数空格，但必要时候需要强制控制大小。
+一般 $\mathrm{\LaTeX}$ 能自动处理大多数空格，但必要时候需要强制控制大小。
 
 ## 紧贴
 
@@ -1427,7 +1427,7 @@ $x\; y$
 
 $$x\; y$$
 
-宽度为 $\frac{2m}{7}$。
+宽度为 $\frac{2 m}{7}$。
 
 ## 大空格
 
@@ -1457,7 +1457,7 @@ $x\qquad y$
 
 $$x\qquad y$$
 
-宽度为 $2m$。
+宽度为 $2 m$。
 
 # 颜色
 
