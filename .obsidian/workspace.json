@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "75581e5a7aad5298",
+        "id": "55cfb52d993fb32e",
         "type": "tabs",
         "children": [
           {
-            "id": "2eac32ec387c030a",
+            "id": "c2973b665c332bdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "数学知识/机器学习/统计学习方法学习笔记.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "数学知识/机器学习/统计学习方法学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "数学知识/机器学习/统计学习方法学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "数学知识/机器学习/统计学习方法学习笔记.md"
               }
             }
           }
@@ -147,52 +147,52 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2eac32ec387c030a",
+  "active": "c2973b665c332bdc",
   "lastOpenFiles": [
-    "计算机知识/LaTeX/LaTeX教程.md",
-    "Home.md",
+    "images/数学知识/机器学习/统计学习方法学习笔记/无监督学习.png",
+    "images/数学知识/机器学习/统计学习方法学习笔记/强化学习.png",
+    "images/数学知识/机器学习/统计学习方法学习笔记/监督学习.png",
+    "images/数学知识/机器学习/统计学习方法学习笔记",
+    "images/数学知识/机器学习",
+    "images/数学知识",
+    "数学知识/机器学习/统计学习方法学习笔记.md",
     "通识知识/Obsidian/Obsidian阅读指南.md",
+    "Home.md",
+    "readme.md",
+    "相关信息/知识库编写规范.md",
+    "相关信息/关于本知识库.md",
+    "相关信息/贡献者须知.md",
+    "通识知识/中国近现代史纲要/中国近现代史纲要思考题.md",
+    "通识知识/中国近现代史纲要/中国近现代史纲要复习大纲.md",
+    "通识知识/Obsidian/Obsidian编写指南.md",
+    "计算机知识/LaTeX/LaTeX教程.md",
+    "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
+    "计算机知识/Linux教程/Linux命令行教程/Linux命令行入门教程.md",
+    "计算机知识/Markdown/Markdown教程.md",
+    "数学知识/计算机科学与人工智能的数学基础/计算机科学与人工智能的数学基础复习大纲.md",
+    "计算机知识/LaTeX/LaTeX数学公式.md",
+    "数学知识/机器学习",
     "计算机知识/计算机常识/计算机通识常识/添加环境变量.md",
     "images/计算机知识/计算机常识/计算机通识常识/添加环境变量/系统属性.png",
     "images/计算机知识/计算机常识/计算机通识常识/添加环境变量",
     "images/计算机知识/计算机常识/计算机通识常识",
     "images/计算机知识/计算机常识",
     "计算机知识/计算机常识/计算机通识常识",
-    "相关信息/知识库编写规范.md",
-    "计算机知识/Markdown/Markdown教程.md",
-    "计算机知识/LaTeX/LaTeX数学公式.md",
-    "通识知识/Obsidian/Obsidian编写指南.md",
     "相关信息/文本书写规范.md",
-    "相关信息/贡献者须知.md",
     "计算机知识/计算机知识知识目录.md",
-    "相关信息/关于本知识库.md",
     "通识知识/通识知识知识目录.md",
     "images/通识知识/Obsidian阅读指南/返回.png",
-    "计算机知识/Linux教程/Linux命令行教程/Linux命令行入门教程.md",
     "工具汇总/工具汇总.md",
     "utools3.mp4",
     "计算机知识/计算机常识/计算机常识目录.md",
     "工具汇总",
     "回收站/2023年/知识库编写规范（Version 0.01）.md",
-    "readme.md",
-    "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
-    "计算机知识/Linux教程/Linux命令行教程",
     "计算机知识/Linux教程/Linux教程知识目录.md",
     "计算机知识/Git/Git教程.md",
-    "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
-    "数学知识/计算机科学与人工智能的数学基础/计算机科学与人工智能的数学基础复习大纲.md",
-    "回收站/2023年",
-    "回收站/回收站说明.md",
-    "回收站",
-    "计算机知识/Linux教程/Linux安装教程/Linux安装与美化教程.md",
     "Pasted image 20230624041341.png",
     "Pasted image 20230622205622.png",
-    "数学知识/计算机科学与人工智能的数学基础",
     "images/计算机知识/Linux教程/Linux安装教程/Ventoy2Disk启动界面.png",
     "images/计算机知识/Linux教程/Linux安装教程/压缩卷.png",
-    "images/计算机知识/Linux教程/Linux安装教程/选择Ubuntu安装.jpg",
-    "images/计算机知识/Linux教程/Linux安装教程/拓展和主题.png",
-    "images/计算机知识/Linux教程/Linux安装教程/输入压缩量.png",
-    "images/计算机知识/Linux教程/Linux安装教程/软件与更新.png"
+    "images/计算机知识/Linux教程/Linux安装教程/选择Ubuntu安装.jpg"
   ]
 }
