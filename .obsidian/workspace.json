@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "263733fefcf4b1bb",
+        "id": "28cb051419c19597",
         "type": "tabs",
         "children": [
           {
-            "id": "84688afadac73d90",
+            "id": "1549b8175c63396c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,13 +147,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "84688afadac73d90",
+  "active": "1549b8175c63396c",
   "lastOpenFiles": [
+    "Pasted image 20230714235656.png",
+    "数学知识/数学知识知识目录.md",
+    "Home.md",
+    "相关信息/知识库编写规范.md",
+    "数学知识/机器学习/统计学习方法学习笔记.md",
     "Pasted image 20230711175933.png",
     "工具汇总/工具汇总.md",
-    "Home.md",
     "通识知识/通识知识知识目录.md",
-    "数学知识/机器学习/统计学习方法学习笔记.md",
     "images/数学知识/机器学习/统计学习方法学习笔记/无监督学习.png",
     "images/数学知识/机器学习/统计学习方法学习笔记/强化学习.png",
     "images/数学知识/机器学习/统计学习方法学习笔记/监督学习.png",
@@ -162,7 +165,6 @@
     "images/数学知识",
     "通识知识/Obsidian/Obsidian阅读指南.md",
     "readme.md",
-    "相关信息/知识库编写规范.md",
     "相关信息/关于本知识库.md",
     "相关信息/贡献者须知.md",
     "通识知识/中国近现代史纲要/中国近现代史纲要思考题.md",
@@ -189,11 +191,9 @@
     "工具汇总",
     "回收站/2023年/知识库编写规范（Version 0.01）.md",
     "计算机知识/Linux教程/Linux教程知识目录.md",
-    "计算机知识/Git/Git教程.md",
     "Pasted image 20230624041341.png",
     "Pasted image 20230622205622.png",
     "images/计算机知识/Linux教程/Linux安装教程/Ventoy2Disk启动界面.png",
-    "images/计算机知识/Linux教程/Linux安装教程/压缩卷.png",
-    "images/计算机知识/Linux教程/Linux安装教程/选择Ubuntu安装.jpg"
+    "images/计算机知识/Linux教程/Linux安装教程/压缩卷.png"
   ]
 }
