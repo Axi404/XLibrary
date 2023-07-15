@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28cb051419c19597",
+        "id": "c5979f48f2fbd2ce",
         "type": "tabs",
         "children": [
           {
-            "id": "1549b8175c63396c",
+            "id": "5b6aab246d35eb72",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,11 +147,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1549b8175c63396c",
+  "active": "5b6aab246d35eb72",
   "lastOpenFiles": [
-    "Pasted image 20230714235656.png",
     "数学知识/数学知识知识目录.md",
     "Home.md",
+    "Pasted image 20230714235656.png",
     "相关信息/知识库编写规范.md",
     "数学知识/机器学习/统计学习方法学习笔记.md",
     "Pasted image 20230711175933.png",
@@ -193,7 +193,6 @@
     "计算机知识/Linux教程/Linux教程知识目录.md",
     "Pasted image 20230624041341.png",
     "Pasted image 20230622205622.png",
-    "images/计算机知识/Linux教程/Linux安装教程/Ventoy2Disk启动界面.png",
-    "images/计算机知识/Linux教程/Linux安装教程/压缩卷.png"
+    "images/计算机知识/Linux教程/Linux安装教程/Ventoy2Disk启动界面.png"
   ]
 }
