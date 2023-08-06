@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "609ec3fc8e46a6c7",
+        "id": "fdc836532c9e901a",
         "type": "tabs",
         "children": [
           {
-            "id": "457d1b42cad8e7b0",
+            "id": "172168bd21ea0f2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,14 +147,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "457d1b42cad8e7b0",
+  "active": "172168bd21ea0f2d",
   "lastOpenFiles": [
+    "数学知识/数学知识知识目录.md",
+    "Home.md",
+    "工具汇总/工具汇总.md",
+    "计算机知识/LaTeX/LaTeX数学公式.md",
+    "计算机知识/LaTeX/LaTeX教程.md",
+    "数学知识/机器学习/统计学习方法学习笔记.md",
+    "计算机知识/C++教程/未命名.md",
+    "计算机知识/C++教程/C++基础",
+    "计算机知识/C++教程",
+    "images/数学知识/机器学习/统计学习方法学习笔记/感知机.png",
     "数学知识/机器学习/补充知识/最小二乘法.md",
     "数学知识/机器学习/补充知识/Hoeffding不等式.md",
     "数学知识/机器学习/补充知识/函数族.md",
-    "数学知识/机器学习/统计学习方法学习笔记.md",
-    "数学知识/数学知识知识目录.md",
-    "Home.md",
     "images/数学知识/机器学习/统计学习方法学习笔记/回归问题.png",
     "images/数学知识/机器学习/统计学习方法学习笔记/标注问题.png",
     "images/数学知识/机器学习/统计学习方法学习笔记/分类问题.png",
@@ -173,28 +179,20 @@
     "相关信息/贡献者须知.md",
     "通识知识/Obsidian/Obsidian阅读指南.md",
     "readme.md",
-    "工具汇总/工具汇总.md",
     "计算机知识/Git/Git教程.md",
-    "计算机知识/LaTeX/LaTeX教程.md",
-    "计算机知识/LaTeX/LaTeX数学公式.md",
     "计算机知识/Linux教程/Linux命令行教程/Linux命令行入门教程.md",
     "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
     "通识知识/Obsidian/Obsidian编写指南.md",
-    "数学知识/计算机科学与人工智能的数学基础/计算机科学与人工智能的数学基础复习大纲.md",
     "数学知识/机器学习/补充知识",
-    "计算机知识/Markdown/Markdown教程.md",
     "Pasted image 20230714235656.png",
     "Pasted image 20230711175933.png",
     "images/数学知识/机器学习/统计学习方法学习笔记/无监督学习.png",
-    "images/数学知识/机器学习/统计学习方法学习笔记/强化学习.png",
     "images/数学知识/机器学习/统计学习方法学习笔记",
     "images/数学知识/机器学习",
     "images/数学知识",
     "数学知识/机器学习",
     "images/计算机知识/计算机常识/计算机通识常识/添加环境变量",
     "images/计算机知识/计算机常识/计算机通识常识",
-    "images/计算机知识/计算机常识",
-    "计算机知识/计算机常识/计算机通识常识",
-    "utools3.mp4"
+    "images/计算机知识/计算机常识"
   ]
 }
