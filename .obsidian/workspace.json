@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20ae95ea45ab030c",
+        "id": "3ab1122e085278c3",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0ee0335a0f34ce",
+            "id": "84f2af7ef3ed6b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机知识/Git/Git教程.md",
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机知识/Git/Git教程.md",
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机知识/Git/Git教程.md",
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机知识/Git/Git教程.md"
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md"
               }
             }
           }
@@ -147,21 +147,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2e0ee0335a0f34ce",
+  "active": "84f2af7ef3ed6b5c",
   "lastOpenFiles": [
+    "计算机知识/Linux教程/Linux命令行教程/Linux命令行入门教程.md",
+    "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
     "Home.md",
-    "相关信息/文本书写规范.md",
+    "工具汇总/工具汇总.md",
+    "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
+    "数学知识/机器学习/统计学习方法学习笔记.md",
+    "数学知识/计算机科学与人工智能的数学基础/计算机科学与人工智能的数学基础复习大纲.md",
     "相关信息/贡献者须知.md",
+    "计算机知识/Git/Git教程.md",
+    "相关信息/文本书写规范.md",
     "相关信息/关于本知识库.md",
     "相关信息/约定式提交.md",
     "相关信息/知识库编写规范.md",
-    "数学知识/机器学习/统计学习方法学习笔记.md",
     "数学知识/数学知识知识目录.md",
     "readme.md",
     "计算机知识/计算机知识知识目录.md",
     "计算机知识/Markdown/Markdown教程.md",
     "通识知识/Obsidian/Obsidian阅读指南.md",
-    "工具汇总/工具汇总.md",
     "计算机知识/LaTeX/LaTeX数学公式.md",
     "计算机知识/LaTeX/LaTeX教程.md",
     "计算机知识/C++教程/未命名.md",
@@ -178,12 +183,7 @@
     "images/数学知识/机器学习/统计学习方法学习笔记/过拟合.png",
     "计算机知识/Linux教程/Linux教程知识目录.md",
     "回收站/回收站说明.md",
-    "回收站/2023年/知识库编写规范（Version 0.01）.md",
     "images/数学知识/机器学习/统计学习方法学习笔记/核方法的映射.png",
-    "数学知识/机器学习/补充知识/贝叶斯推理.md",
-    "计算机知识/Git/Git教程.md",
-    "计算机知识/Linux教程/Linux命令行教程/Linux命令行入门教程.md",
-    "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
     "数学知识/机器学习/补充知识",
     "Pasted image 20230714235656.png",
     "Pasted image 20230711175933.png",
