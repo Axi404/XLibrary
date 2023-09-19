@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "732a774a9f5dbd00",
+        "id": "6e514af4ae9312c6",
         "type": "tabs",
         "children": [
           {
-            "id": "12cce5173f8321eb",
+            "id": "fb2f0cbac05ffebe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机知识/Linux教程/Linux教程知识目录.md",
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu 配置指南.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机知识/Linux教程/Linux教程知识目录.md",
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu 配置指南.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机知识/Linux教程/Linux教程知识目录.md",
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu 配置指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机知识/Linux教程/Linux教程知识目录.md"
+                "file": "计算机知识/Linux教程/Linux安装教程/Ubuntu 配置指南.md"
               }
             }
           },
@@ -158,19 +158,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "12cce5173f8321eb",
+  "active": "fb2f0cbac05ffebe",
   "lastOpenFiles": [
+    "images/计算机知识/Linux教程/Ubuntu配置指南/show_app_icon.png",
+    "images/计算机知识/Linux教程/Ubuntu配置指南/换源.png",
+    "images/计算机知识/Linux教程/Ubuntu配置指南/CMake_test.png",
+    "images/计算机知识/Linux教程/Ubuntu配置指南/check_clang.png",
+    "images/计算机知识/Linux教程/Ubuntu配置指南/clang-format.png",
+    "images/计算机知识/Linux教程/Ubuntu配置指南/clang-format_executable.png",
+    "images/计算机知识/Linux教程/Ubuntu配置指南/VSCode_deb.png",
+    "images/计算机知识/Linux教程/Ubuntu配置指南",
+    "images/计算机知识/Linux教程/新建文件夹",
+    "计算机知识/Linux教程/Linux教程知识目录.md",
+    "计算机知识/Linux教程/Linux安装教程/Ubuntu 配置指南.md",
+    "Home.md",
     "switch.bat",
     "计算机知识/C++教程/C++基础/C++ Windows环境配置.md",
     "新建 文本文档.txt",
     "计算机知识/Git/Git教程.md",
     "计算机知识/计算机知识知识目录.md",
-    "计算机知识/Linux教程/Linux教程知识目录.md",
     "数学知识/计算机科学与人工智能的数学基础/计算机科学与人工智能的数学基础复习大纲.md",
     "计算机知识/LaTeX/LaTeX数学公式.md",
     "计算机知识/LaTeX/LaTeX教程.md",
     "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
-    "Home.md",
     "生化医学/生化医学知识知识目录.md",
     "数学知识/机器学习/统计学习方法学习笔记.md",
     "计算机知识/建站指南/一份使用面板的简短建站指南.md",
@@ -187,23 +197,14 @@
     "readme.md",
     "计算机知识/Markdown/Markdown教程.md",
     "通识知识/Obsidian/Obsidian阅读指南.md",
-    "计算机知识/C++教程/未命名.md",
     "计算机知识/C++教程/C++基础",
     "计算机知识/C++教程",
     "images/数学知识/机器学习/统计学习方法学习笔记/感知机.png",
     "images/数学知识/机器学习/统计学习方法学习笔记/回归问题.png",
     "images/数学知识/机器学习/统计学习方法学习笔记/标注问题.png",
     "images/数学知识/机器学习/统计学习方法学习笔记/分类问题.png",
-    "images/数学知识/机器学习/统计学习方法学习笔记/模型复杂度与误差的关系.png",
-    "images/数学知识/机器学习/统计学习方法学习笔记/过拟合.png",
-    "images/数学知识/机器学习/统计学习方法学习笔记/核方法的映射.png",
     "数学知识/机器学习/补充知识",
-    "Pasted image 20230714235656.png",
-    "Pasted image 20230711175933.png",
-    "images/数学知识/机器学习/统计学习方法学习笔记/无监督学习.png",
     "images/数学知识/机器学习/统计学习方法学习笔记",
-    "images/数学知识/机器学习",
-    "images/数学知识",
-    "数学知识/机器学习"
+    "images/数学知识/机器学习"
   ]
 }
