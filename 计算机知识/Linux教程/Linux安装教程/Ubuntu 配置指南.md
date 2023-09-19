@@ -1,4 +1,12 @@
-## 前言
+# 序
+
+本文旨在通过教程向读者说明正常的搭建 Ubuntu 编程环境以及更多内容的指南，提供简易且稳定的方法。
+
+考虑到对于新手而言，安装 Ubuntu 之后便会跳转至本章节，因此在其中有少量的关于 Linux 命令行的基础说明。
+
+## C++编程环境
+
+### 前言
 
 在一切的开始，先介绍一下我们要做什么事情。
 
@@ -6,25 +14,25 @@
 
 本教程的安装内容均须要联网进行。
 
-## 安装 VSCode
+### 安装 VSCode
 
 通过 Ubuntu 自带的火狐浏览器找到熟悉的 VSCode 的 [官网](https://code.visualstudio.com/)，并且进行安装。
 
 ![[VSCode_deb.png]]
 
-选择. deb 进行下载，下载完毕之后进入下载文件夹，应该可以看到下载的 deb 包，右键在终端中打开，输入：
+选择 `.deb` 进行下载，下载完毕之后进入下载文件夹，应该可以看到下载的 `deb` 包，右键在终端中打开，输入：
 
 ```bash
 sudo dpkg -i code_your_version.deb
 ```
 
-其中 `code_your_version.deb` 为你的 deb 包的名字，在命令行中可以使用 `TAB` 进行自动补全，这样你就只需要输入一个 code，之后进行自动补全即可。
+其中 `code_your_version.deb` 为你的 deb 包的名字，在命令行中可以使用 `TAB` 进行自动补全，这样你就只需要输入一个 `code`，之后进行自动补全即可。
 
 输入密码，其中密码的输入是不可见的，输入之后终端没有反应并非你没有输入，输入之后按下回车即可。
 
 稍等片刻，等命令行又一次可以输入的时候，在命令行中输入 `code`，回车，进入 VSCode。
 
-## 换源（可选）
+### 换源（可选）
 
 对于大多数并为使用代理的读者来说，直接从 Ubuntu 的官方服务器下载是一件十分缓慢的事情，于是需要进行换源操作。
 
@@ -34,9 +42,9 @@ sudo dpkg -i code_your_version.deb
 
 ![[换源.png]]
 
-其中 `下载自` 这一部分中内容并不相同，点击下拉菜单，其他，在其中选择你心仪的源，可以参照我这个，之后点击关闭-重新载入，等待结束即可。
+其中 `下载自` 这一部分中内容并不相同，点击下拉菜单，其他，在其中选择你心仪的源，可以参照图中内容，之后点击关闭-重新载入，等待结束即可。
 
-## 基础编译套装
+## 基础编译（基于GCC）
 
 换源之后就可以下载基础的编译工具了，也就是 gcc、g++以及 cmake，在终端输入：
 
@@ -58,7 +66,7 @@ sudo apt install gcc g++ cmake
 
 ![[CMake_test.png]]
 
-## 豪华编译套装（进阶可选）
+## 其他编译选项（基于Clang）
 
 同时我们可以使用 clangd 等内容进行编译器的选择，依然是使用 apt 安装一定的内容：
 
@@ -97,7 +105,7 @@ touch .clang-format
 gedit .clang-format
 ```
 
-```txt
+```json
 { BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4, TabWidth: 4, BreakBeforeBraces: Allman, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0, AccessModifierOffset: -4, NamespaceIndentation: All, FixNamespaceComments: false }
 ```
 
@@ -105,7 +113,7 @@ gedit .clang-format
 
 此时理想情况下，配置已经结束。
 
-但是有的时候一些代码会用红线，说一些内容未找到（如 iostream），但是编译可以正常进行，输入以下命令解决这一问题。
+但是有的时候一些代码会用红线，说一些内容未找到（如 `iostream`），但是编译可以正常进行，输入以下命令解决这一问题。
 
 ```bash
 sudo apt install libstdc++-12-dev
