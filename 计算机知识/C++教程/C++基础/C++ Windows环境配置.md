@@ -45,13 +45,17 @@ text: 转载至RM_Vision_Library，作者刘与铮
 
 ### 安装编译工具
 
-MSYS 2 本质上是一个编译工具链的管理工具，我们还需要使用它来安装一些工具。在刚才打开的 ucrt 64 界面中，运行以下命令以更新软件源：`pacman -Syu`，此过程可能会较慢，如果遇到下载速度慢的问题，您可以查找有关在 MSYS 2 中更换国内软件源的相关信息。然后，输入以下命令来安装编译工具链：`pacman -S mingw-w64-ucrt-x86_64-toolchain`。接下来，安装 Clangd 工具链，输入：`pacman -S mingw-w64-ucrt-x86_64-clang mingw-w64-ucrt-x86_64-clang-tools-extra`。以上安装步骤大约需要 3 GB 的硬盘空间。
+MSYS 2 本质上是一个编译工具链的管理工具，我们还需要使用它来安装一些工具。
+
+在刚才打开的 ucrt 64 界面中，运行以下命令以更新软件源：`pacman -Syu`，此过程可能会较慢，如果遇到下载速度慢的问题，您可以查找有关在 MSYS 2 中更换国内软件源的相关信息。
+
+然后，输入以下命令来安装编译工具链：`pacman -S mingw-w64-ucrt-x86_64-toolchain`。接下来，安装 Clangd 工具链，输入：`pacman -S mingw-w64-ucrt-x86_64-clang mingw-w64-ucrt-x86_64-clang-tools-extra`。以上安装步骤大约需要 $3 \mathrm{GB}$ 的硬盘空间。
 
 要验证您的安装是否成功，打开终端：
 
 ![[WindowsPowerShell.png]]
 
-运行以下命令：gcc 和 clangd。如果能够看到与下图中类似的输出，说明安装成功，环境变量已生效。
+运行以下命令：`gcc` 和 `clangd`。如果能够看到与下图中类似的输出，说明安装成功，环境变量已生效。
 
 ![[验证gcc与clangd.png]]
 
@@ -87,7 +91,7 @@ CMake 是一种用于组织 C++项目的工具，它能够实现多个 C++文件
 
 在这里，我们将介绍一下 Visual Studio Code 中 CMake 插件的用法。
 
-按下 Ctrl+Shift+P，输入"cmake"，选择"CMake: Quick Start"：
+按下 `Ctrl+Shift+P`，输入"cmake"，选择"CMake: Quick Start"：
 
 ![[VSCode-CMake快速入门.png]]
 
