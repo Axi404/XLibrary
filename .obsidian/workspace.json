@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5ff7eb45428a604",
+        "id": "483a2dae90f6a499",
         "type": "tabs",
         "children": [
           {
-            "id": "92a2bc02e730715a",
+            "id": "675155b7012992ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "数学知识/机器学习/统计学习方法学习笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "数学知识/机器学习/统计学习方法学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "数学知识/机器学习/统计学习方法学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "数学知识/机器学习/统计学习方法学习笔记.md"
               }
             }
           },
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "92a2bc02e730715a",
+  "active": "675155b7012992ca",
   "lastOpenFiles": [
+    "计算机知识/建站指南/一份使用面板的简短建站指南.md",
+    "计算机知识/Git/Git教程.md",
+    "计算机知识/计算机知识知识目录.md",
+    "计算机知识/计算机常识/计算机常识目录.md",
+    "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
+    "相关信息/知识库编写规范.md",
+    "计算机知识/Markdown/Markdown教程.md",
+    "计算机知识/Linux教程/Linux教程知识目录.md",
+    "计算机知识/Linux教程/Linux安装教程/Ubuntu 配置指南.md",
+    "Home.md",
+    "通识知识/Obsidian/Obsidian阅读指南.md",
+    "计算机知识/LaTeX/LaTeX数学公式.md",
+    "readme.md",
+    "相关信息/关于本知识库.md",
+    "相关信息/贡献者须知.md",
+    "工具汇总/工具汇总.md",
+    "数学知识/机器学习/统计学习方法学习笔记.md",
+    "数学知识/数学知识知识目录.md",
     "images/人工智能知识/论文阅读/Mutual Correction Framework学习笔记/Mutual Correction Framework-Tab5.png",
     "images/人工智能知识/论文阅读/Mutual Correction Framework学习笔记/Mutual Correction Framework-Tab4.png",
     "images/人工智能知识/论文阅读/Mutual Correction Framework学习笔记/Mutual Correction Framework-Tab3.png",
@@ -170,7 +187,6 @@
     "images/人工智能知识/论文阅读/Mutual Correction Framework学习笔记/Mutual Correction Framework-Fig5.png",
     "images/人工智能知识/论文阅读/Mutual Correction Framework学习笔记/Mutual Correction Framework-Fig4.png",
     "images/人工智能知识/论文阅读/Mutual Correction Framework学习笔记/Mutual Correction Framework-Fig3.png",
-    "images/人工智能知识/论文阅读/Mutual Correction Framework学习笔记/Mutual Correction Framework-Fig2.png",
     "images/人工智能知识/论文阅读/Mutual Correction Framework学习笔记",
     "images/人工智能知识/论文阅读",
     "images/人工智能知识",
@@ -178,33 +194,16 @@
     "人工智能知识/论文阅读/Mutual Correction Framework学习笔记.md",
     "人工智能知识/人工智能知识知识目录.md",
     "人工智能知识/论文阅读",
-    "数学知识/数学知识知识目录.md",
     "人工智能知识",
-    "Home.md",
-    "readme.md",
     "images/计算机知识/C++教程/C++基础/C++ Windows环境配置",
     "images/计算机知识/C++教程/C++基础",
     "images/计算机知识/C++教程",
     "images/计算机知识/C++教程/C++基础/新建文件夹",
     "images/计算机知识/C++教程/新建文件夹",
-    "计算机知识/建站指南/一份使用面板的简短建站指南.md",
     "计算机知识/C++教程/C++基础/C++ Windows环境配置.md",
-    "计算机知识/Linux教程/Linux安装教程/Ubuntu 配置指南.md",
-    "计算机知识/Linux教程/Linux教程知识目录.md",
-    "计算机知识/Git/Git教程.md",
-    "计算机知识/计算机知识知识目录.md",
     "数学知识/计算机科学与人工智能的数学基础/计算机科学与人工智能的数学基础复习大纲.md",
-    "计算机知识/LaTeX/LaTeX数学公式.md",
     "计算机知识/LaTeX/LaTeX教程.md",
     "计算机知识/Linux教程/Linux安装教程/Ubuntu安装教程.md",
-    "生化医学/生化医学知识知识目录.md",
-    "数学知识/机器学习/统计学习方法学习笔记.md",
-    "计算机知识/Linux教程/Linux命令行教程/Linux命令行入门教程.md",
-    "工具汇总/工具汇总.md",
-    "计算机知识/计算机常识/计算机操作系统常识/磁盘存储格式.md",
-    "相关信息/贡献者须知.md",
-    "相关信息/文本书写规范.md",
-    "相关信息/关于本知识库.md",
-    "相关信息/约定式提交.md"
+    "生化医学/生化医学知识知识目录.md"
   ]
 }

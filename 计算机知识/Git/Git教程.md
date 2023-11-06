@@ -99,6 +99,14 @@ git push -u origin 主分支名
 git clone 远程仓库URL
 ```
 
+# Git 多人协作
+
+一般来说我们使用 Github 或者 Gitee 等远程托管平台通过 Git 进行项目的多人协作，这其中主要包含两种，一种是团队内部的协作，一种是外界的开源式的协作，以下以 Github 为例。
+
+## 添加 Collaborators
+
+在 Github 中添加 Colloaborators，等于说在你的项目中
+
 ## 发起 Pull Request
 
 1. 在 GitHub 上切换到要提交的分支。
